@@ -1,5 +1,6 @@
 # Expense Tracker CLI
 
+https://roadmap.sh/projects/expense-tracker
 A command-line interface (CLI) application for personal expense management, built with Go.
 
 ## 🚀 Features
